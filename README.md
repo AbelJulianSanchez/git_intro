@@ -1,3 +1,5 @@
 "Abel Sanchez" 
 "sanchabe@oregonstate.edu"
 "Pink"
+"1"
+"Metallica"
